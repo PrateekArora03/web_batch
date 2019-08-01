@@ -2,7 +2,7 @@
 
 
 <?php
-	$b = time();
-	echo date('Y-m-d H:i:s', $b) ;
+	$data = time();
+	echo date('Y-m-d H:i:s', $data) ;
 	
 ?>
